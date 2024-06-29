@@ -1,0 +1,7 @@
+{ 
+    "Client": "webapp",
+    "SourceLanguage": "en",
+    "TargetLanguage": "uk",
+    "HostLanguage": "uk",
+    "Proxy": null
+}
